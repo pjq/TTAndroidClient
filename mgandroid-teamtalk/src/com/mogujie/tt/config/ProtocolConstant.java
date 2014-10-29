@@ -214,10 +214,13 @@ public class ProtocolConstant {
 	public static final int SID_MAX = 0x0010;
 
 	// LOGIN IP,PORT
-	public static final String LOGIN_IP1 = "122.225.68.125";
-	public static final String LOGIN_IP2 = "101.68.218.125";
+//	public static final String LOGIN_IP1 = "122.225.68.125";
+//	public static final String LOGIN_IP2 = "101.68.218.125";
+	public static final String LOGIN_IP1 = "10.128.42.174";
+	public static final String LOGIN_IP2= "10.128.42.174";
 	
 	public static final int LOGIN_PORT = 9008;
+//	public static final int LOGIN_PORT = 80;
 	
 	//open source
 //	public static final int LOGIN_PORT = 18008;
